@@ -13,7 +13,15 @@
 
 <br><br>
 
-# Select a branch
+# Select package manager
++ <a href="https://github.com/KevinNicolas/template-Ts-lint/tree/npm">
+    <img alter="pnpm logo." src="https://raw.githubusercontent.com/KevinNicolas/template-Ts-lint/3f1a6ec0eb8e1c528fcfd5ac30353216bb660ee6/images/npm-logo.svg" width="17" /> npm
+</a>
+
++ <a href="https://github.com/KevinNicolas/template-Ts-lint/tree/yarn">
+    <img alter="pnpm logo." src="https://raw.githubusercontent.com/KevinNicolas/template-Ts-lint/3f1a6ec0eb8e1c528fcfd5ac30353216bb660ee6/images/yarn-logo.svg" width="50" /> yarn
+</a>
+
 + <a href="https://github.com/KevinNicolas/template-Ts-lint/tree/pnpm">
     <img alter="pnpm logo." src="https://raw.githubusercontent.com/KevinNicolas/template-Ts-lint/3f1a6ec0eb8e1c528fcfd5ac30353216bb660ee6/images/pnpm-logo.svg" width="17" /> pnpm
 </a>
